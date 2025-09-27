@@ -1,2 +1,7 @@
-# crypto-explorer3
-Simple Python CLI tool to fetch cryptocurrency prices
+# Crypto Explorer 3
+
+Python CLI tool to fetch live cryptocurrency prices using public APIs.
+
+## Run
+```bash
+python crypto_explorer3.py
